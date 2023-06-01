@@ -1,0 +1,5 @@
+{
+    "token": "your_application_token",
+    "clientId": "your_application_client_id",
+    "guildId": "your_guild_id"
+}
