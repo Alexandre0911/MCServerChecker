@@ -6,7 +6,9 @@ This bot uses mcapi.us to give us information about a minecraft server given a c
 # Configuration File
 token: <a href="https://discord.com/developers/applications" title="Discord Developer Portal">Discord Developer Portal</a> -> Select your application -> Select the 'Bot' page to copy your token.<br>
 clientId: <a href="https://discord.com/developers/applications" title="Discord Developer Portal">Discord Developer Portal</a> -> Select your application -> Copy the numbers below 'Application ID'.<br>
-guildId: Open Discord -> Settings -> Advanced -> Enable Developer Mode -> Right-Click your guild (server) and click 'Copy ID'.
+guildId: Open Discord -> Settings -> Advanced -> Enable Developer Mode -> Right-Click your guild (server) and click 'Copy ID'.<br>
+
+Paste all of this into 'config-template.json' and after rename it to 'config.json'
 
 # Installing The 'discord.js' Module
 Press `Win + R`, run `cmd.exe`, and then `cd` into your project directory.<br>
